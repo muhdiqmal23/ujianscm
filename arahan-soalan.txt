@@ -2,3 +2,4 @@ Keterampilan
 - Membina repository di computer
 - SetempatBangunkan branch
 - Gabungkan branch
+- Membuat fail
